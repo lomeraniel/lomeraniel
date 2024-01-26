@@ -5,3 +5,7 @@
 * 🫀 DEIB Advocate, 🎸 Ukulele Player, :parrot: Bird Lover, and :star: Idealist
 
 I started my coding career just after university during my first job as Project Engineer where I had to program AMX and Crestron Control Systems to automate and control several aspects of videoconference rooms. I later fell in love with WordPress and how it helped democratize the web. I'm very much interested in front-end development, but I find myself more comfortable with the backend. Learning is one of my passions, and I'm currently working my way through a Full-Stack Engineering course.
+
+I'm versatile, a quick learner, and a problem solver, and while I enjoy being part of a team, I'm also resourceful to fly solo. I believe in honest communication, mutual respect, and constructive feedback.
+
+I speak English and Spanish, have basic knowledge of French, and some notions of Dutch.
